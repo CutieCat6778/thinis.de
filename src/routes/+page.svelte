@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Your Name - Portfolio</title>
+	<title>Thinh Nguyen - Portfolio</title>
 </svelte:head>
 
 <section class="px-6 py-20 md:py-32">

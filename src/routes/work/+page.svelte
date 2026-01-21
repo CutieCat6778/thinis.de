@@ -79,7 +79,7 @@
 </script>
 
 <svelte:head>
-	<title>Work - Your Name</title>
+	<title>Work - Thinh Nguyen</title>
 </svelte:head>
 
 <section class="px-6 py-20">

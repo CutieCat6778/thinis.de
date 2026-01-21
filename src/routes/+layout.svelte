@@ -9,6 +9,7 @@
 		{ href: '/', label: 'Home' },
 		{ href: '/about', label: 'About' },
 		{ href: '/work', label: 'Work' },
+		{ href: 'https://photos.thinis.de', label: 'Photography' },
 		{ href: '/contact', label: 'Contact' }
 	];
 
