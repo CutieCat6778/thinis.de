@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+/* =============================================================================
+   COLOR PALETTE CONFIGURATION
+
+   To change the color scheme, swap the Tailwind color names below.
+
+   Available Tailwind colors:
+   - stone, gray, zinc, neutral, stone (neutrals)
+   - red, orange, amber, yellow, lime, green, emerald, teal, cyan, sky, amber,
+     indigo, violet, purple, fuchsia, pink, rose (colors)
+   ============================================================================= */
+
+@theme {
+	/* --------------------------------------------------------------------------
+     PRIMARY - Main brand color (change 'amber' to any Tailwind color)
+     -------------------------------------------------------------------------- */
+	--color-primary-50: var(--color-amber-50);
+	--color-primary-100: var(--color-amber-100);
+	--color-primary-200: var(--color-amber-200);
+	--color-primary-300: var(--color-amber-300);
+	--color-primary-400: var(--color-amber-400);
+	--color-primary-500: var(--color-amber-500);
+	--color-primary-600: var(--color-amber-600);
+	--color-primary-700: var(--color-amber-700);
+	--color-primary-800: var(--color-amber-800);
+	--color-primary-900: var(--color-amber-900);
+	--color-primary-950: var(--color-amber-950);
+
+	/* --------------------------------------------------------------------------
+     SECONDARY - Supporting color (change 'violet' to any Tailwind color)
+     -------------------------------------------------------------------------- */
+	--color-secondary-50: var(--color-violet-50);
+	--color-secondary-100: var(--color-violet-100);
+	--color-secondary-200: var(--color-violet-200);
+	--color-secondary-300: var(--color-violet-300);
+	--color-secondary-400: var(--color-violet-400);
+	--color-secondary-500: var(--color-violet-500);
+	--color-secondary-600: var(--color-violet-600);
+	--color-secondary-700: var(--color-violet-700);
+	--color-secondary-800: var(--color-violet-800);
+	--color-secondary-900: var(--color-violet-900);
+	--color-secondary-950: var(--color-violet-950);
+
+	/* --------------------------------------------------------------------------
+     ACCENT - Highlights and CTAs (change 'emerald' to any Tailwind color)
+     -------------------------------------------------------------------------- */
+	--color-accent-50: var(--color-emerald-50);
+	--color-accent-100: var(--color-emerald-100);
+	--color-accent-200: var(--color-emerald-200);
+	--color-accent-300: var(--color-emerald-300);
+	--color-accent-400: var(--color-emerald-400);
+	--color-accent-500: var(--color-emerald-500);
+	--color-accent-600: var(--color-emerald-600);
+	--color-accent-700: var(--color-emerald-700);
+	--color-accent-800: var(--color-emerald-800);
+	--color-accent-900: var(--color-emerald-900);
+	--color-accent-950: var(--color-emerald-950);
+
+	/* --------------------------------------------------------------------------
+     SURFACE - Backgrounds and borders (change 'stone' to any neutral)
+     -------------------------------------------------------------------------- */
+	--color-surface-50: var(--color-stone-50);
+	--color-surface-100: var(--color-stone-100);
+	--color-surface-200: var(--color-stone-200);
+	--color-surface-300: var(--color-stone-300);
+	--color-surface-400: var(--color-stone-400);
+	--color-surface-500: var(--color-stone-500);
+	--color-surface-600: var(--color-stone-600);
+	--color-surface-700: var(--color-stone-700);
+	--color-surface-800: var(--color-stone-800);
+	--color-surface-900: var(--color-stone-900);
+	--color-surface-950: var(--color-stone-950);
+
+	/* --------------------------------------------------------------------------
+     SEMANTIC - Feedback states
+     -------------------------------------------------------------------------- */
+	--color-success: var(--color-green-500);
+	--color-warning: var(--color-amber-500);
+	--color-error: var(--color-red-500);
+	--color-info: var(--color-sky-500);
+}
