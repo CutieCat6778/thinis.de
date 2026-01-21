@@ -11,8 +11,9 @@
 			A Full-Stack & Embedded Developer
 		</p>
 		<p class="mx-auto mb-10 max-w-2xl text-lg text-surface-600 dark:text-surface-400">
-			I build scalable backend systems and streamline deployment processes to ensure seamless and
-			efficient operations. Let's work together to bring your projects to life!
+			I specialize in creating dynamic web applications and embedded systems that deliver seamless
+			user experiences. With a passion for coding and problem-solving, I bring ideas to life through
+			innovative technology solutions.
 		</p>
 		<div class="flex flex-wrap justify-center gap-4">
 			<a
